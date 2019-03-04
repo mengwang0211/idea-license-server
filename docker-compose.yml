@@ -1,0 +1,11 @@
+version: '2'
+services:
+  idea-license-server:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    restart: always
+    container_name: idea-license-server
+    image: wm/idea-license-server
+    ports:
+      - 1027:1027

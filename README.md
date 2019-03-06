@@ -19,4 +19,7 @@ docker-compose up -d
 仅用于交流学习使用，请勿作为商用！
 侵删
 
+For communication learning only, Please do not use it as a commercial!
+
+
 ```

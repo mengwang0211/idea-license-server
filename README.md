@@ -12,3 +12,11 @@ docker run -d --name=IdeaLicenseServer -p 1027:1027 --restart=always IdeaLicense
 docker-compose up -d
 
 ```
+
+#### 免责声明
+
+```
+仅用于交流学习使用，请勿作为商用！
+侵删
+
+```
